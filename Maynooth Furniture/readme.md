@@ -2,4 +2,4 @@
 
 ## Maynooth Furniture
 
-![landing](Mayo-Furniture.jpg)
+![landing](Maynooth-Furniture.jpg)
